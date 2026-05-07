@@ -1,6 +1,7 @@
 # OctoAcme Project Management Documentation
 
 Welcome to OctoAcme's project management process documentation. This guide serves as your entry point to understanding how OctoAcme runs projects, manages teams, and delivers value iteratively.
+Author: OctoCat
 
 ## Quick Overview
 
