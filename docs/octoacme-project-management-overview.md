@@ -3,6 +3,8 @@
 ## Purpose
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
+Author: Octocat
+
 ## Scope
 Applies to all cross-functional projects that deliver product features, services, or integrations.
 
